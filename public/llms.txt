@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+CartCraft delivers premium ecommerce fulfillment services and Shopify website solutions. Transform your online retail business with expert tools and support.
+
+### Product
+https://example.com/product
+Discover high-quality retail products powered by seamless ecommerce fulfillment services. Shop CartCraft for unbeatable selection and fast shipping today.
+
+### About
+https://example.com/about
+CartCraft combines cutting-edge Shopify ecommerce website technology with reliable fulfillment. Learn how we empower retailers to scale and succeed online.
+
+### Contact
+https://example.com/contact
+Ready to elevate your retail business? Contact CartCraft for personalized Shopify solutions, santander auto loan options, and dedicated customer service.
+
+### Products
+https://example.com/products
+Our Products - CartCraft
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - CartCraft
+
+### Category
+https://example.com/category/:slug
+Products - CartCraft
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
